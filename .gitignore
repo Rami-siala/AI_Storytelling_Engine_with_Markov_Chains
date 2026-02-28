@@ -1,0 +1,17 @@
+
+# VS Code
+.vscode/
+
+# Claude
+.claude/
+
+# Untracked files
+zz-untracked/
+
+# cached files
+storytelling_engine/__pycache__
+
+# screenshots
+screenshots/
+
+
